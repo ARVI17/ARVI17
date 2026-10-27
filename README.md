@@ -13,7 +13,7 @@ Diseño y desarrollo aplicaciones, APIs, asistentes inteligentes y herramientas 
 <img src="https://img.shields.io/badge/AUTOMATIZACIÓN-FB7185?style=for-the-badge&logo=githubactions&logoColor=white" alt="Automatización" />
 <img src="https://img.shields.io/badge/DATOS-34D399?style=for-the-badge&logo=postgresql&logoColor=0B1020" alt="Datos" />
 
-<a href="https://arvi17.github.io/ARVI17/"><img alt="Abrir portafolio web ARVI17" src="https://img.shields.io/badge/🌐%20ABRIR%20PORTAFOLIO%20WEB-22D3EE?style=for-the-badge&labelColor=111B38" /></a>
+<a href="https://arvi17.github.io/ARVI17/"><img alt="Abrir portafolio web ARVI17" src="https://img.shields.io/badge/PORTAFOLIO-WEB%20INTERACTIVO-22D3EE?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=111B38" /></a>
 <a href="https://github.com/ARVI17?tab=repositories"><img alt="Explorar repositorios" src="https://img.shields.io/badge/EXPLORAR%20PROYECTOS-0E7490?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://github.com/ARVI17/emuladordcp26"><img alt="Proyecto FC Club Lab" src="https://img.shields.io/badge/PROYECTO%20FC%20CLUB%20LAB-7C3AED?style=for-the-badge&logo=react&logoColor=white" /></a>
 
