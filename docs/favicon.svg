@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="ARVI17">
+<defs><linearGradient id="a" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#22D3EE"/><stop offset=".55" stop-color="#A78BFA"/><stop offset="1" stop-color="#FB7185"/></linearGradient></defs>
+<rect x="1" y="1" width="62" height="62" rx="16" fill="#0A1230" stroke="url(#a)" stroke-width="2"/>
+<path d="m21 21-9 11 9 11M43 21l9 11-9 11M37 17 27 47" stroke="url(#a)" stroke-width="5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
