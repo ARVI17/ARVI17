@@ -29,6 +29,20 @@ Diseño y desarrollo aplicaciones, APIs, asistentes inteligentes y herramientas 
 | **🏗️ Cómo trabajo** | Interfaces + backend + bases de datos + contenedores, con documentación de los proyectos. |
 | **🚀 Qué encontrarás aquí** | Proyectos educativos, financieros, deportivos y utilidades de software. |
 
+## 📊 Mi GitHub en números
+
+<div align="center">
+
+<a href="https://github.com/ARVI17?tab=followers"><img src="https://img.shields.io/github/followers/ARVI17?style=for-the-badge&logo=github&label=SEGUIDORES&labelColor=111B38&color=22D3EE" alt="Seguidores públicos en GitHub (actualizados por Shields.io)" /></a>
+<a href="https://github.com/ARVI17?tab=repositories"><img src="https://img.shields.io/github/stars/ARVI17?affiliations=OWNER&style=for-the-badge&logo=github&label=ESTRELLAS&labelColor=111B38&color=A78BFA" alt="Estrellas de repositorios públicos de ARVI17" /></a>
+<a href="https://github.com/ARVI17?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIOS%20P%C3%9ABLICOS-12%20%28oct%202026%29-FB7185?style=for-the-badge&labelColor=111B38" alt="12 repositorios públicos verificados en octubre de 2026" /></a>
+
+**🔍 [Ver actividad reciente y contribuciones](https://github.com/ARVI17?tab=overview)** · **🌐 [Explorar el código de mi portafolio interactivo](docs/)**
+
+</div>
+
+> Las cifras de seguidores y estrellas se consultan a través de insignias dinámicas. El total de repositorios es una instantánea del **27 de octubre de 2026**. El portafolio web incluye estadísticas públicas actualizadas al visitarlo, cuando se active GitHub Pages.
+
 ## 🛠️ Lenguajes de programación y tecnologías
 
 <div align="center">
